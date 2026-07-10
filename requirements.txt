@@ -1,2 +1,2 @@
-pytest
-this-package-does-not-exist-12345==1.0
+# line 1: pytest
+# line 2: pytest==7.4.0
